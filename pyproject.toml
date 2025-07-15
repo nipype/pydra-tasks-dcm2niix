@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pydra-tasks-dcm2niix"
-description = "pydra-dcm2niix contains Pydra task specifications for the Dcm2niix converter"
+description = "pydra-tasks-dcm2niix contains Pydra task specifications for the Dcm2niix converter"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = ["fileformats>=0.15", "fileformats-medimage >=0.10a", "pydra >=1.0a"]
