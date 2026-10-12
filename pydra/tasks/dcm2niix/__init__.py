@@ -9,7 +9,6 @@ imported.
 from ._version import __version__
 from .utils import Dcm2Niix
 
-
 __all__ = [
     "__version__",
     "Dcm2Niix",
